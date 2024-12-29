@@ -18,3 +18,10 @@ body {
   min-height: 100vh;
 }
 
+button, a{
+  cursor: pointer;
+}
+
+a {
+width: 24px;
+}

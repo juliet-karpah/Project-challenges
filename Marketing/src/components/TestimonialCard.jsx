@@ -1,7 +1,7 @@
 export default function TestimonialCard() {
   return (
     <div className="drop-shadow-md w-[340px] mt-[200px] box-border bg-white text-black flex items-center rounded-md">
-      <div className="flex flex-col mx-4 gap-2">
+      <div className="flex flex-col m-4 gap-2">
         <div className="flex h-1/4 gap-4">
           <img
             src="/profile-thumbnail.png"
